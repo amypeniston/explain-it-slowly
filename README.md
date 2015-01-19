@@ -13,7 +13,9 @@ Answering client questions and dealing with sticky situations so you don't have 
 
 **How do I explain that I'm a designer, not a developer?**
 
-**How do I tell the client that their logo/color scheme looks crappy?**
+**How do I tell the client that their logo/color scheme looks like crap?**
+
+**How do I convince the client not to have music, clip art or gifs on their website?**
 
 
 ######[[⬆]](#toc) <a name='development'>Development:</a>
@@ -45,6 +47,8 @@ Answering client questions and dealing with sticky situations so you don't have 
 
 **How do I tell the client that their site will be taken down if they do not pay an outstanding invoice?**
 
+**How do I tell a family or friend that I don't want to work with them?**
+
 
 ######[[⬆]](#toc) <a name='explanations'>General: Explain It Slowly:</a>
 
@@ -57,3 +61,7 @@ Answering client questions and dealing with sticky situations so you don't have 
 **How do I convince the client to switch to a modern web browser?**
 
 **How do I explain resolution vs. screen size?**
+
+**How do I explain raster vs. vector images?**
+
+
