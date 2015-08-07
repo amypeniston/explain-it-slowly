@@ -1,5 +1,5 @@
-# client-asked-WHAT
-Answering client questions and dealing with sticky situations so you don't have to.
+# Explain It Slowly
+Helping you provide better answers to tricky client questions.
 
 ## <a name='toc'>Table of Contents</a>
 
