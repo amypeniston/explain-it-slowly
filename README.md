@@ -6,7 +6,7 @@ Answering client questions and dealing with sticky situations so you don't have 
   1. [Design](#design)
   1. [Development](#development)
   1. [Logistics](#logistics)
-  1. [General: Explain It Slowly](#explanations)
+  1. [General](#general)
 
 
 ######[[⬆]](#toc) <a name='design'>Design:</a>
@@ -17,6 +17,8 @@ Answering client questions and dealing with sticky situations so you don't have 
 
 **How do I convince the client not to have music, clip art or gifs on their website?**
 
+**How do I avoid design-by-committee?**
+
 
 ######[[⬆]](#toc) <a name='development'>Development:</a>
 
@@ -24,9 +26,11 @@ Answering client questions and dealing with sticky situations so you don't have 
 
 **How do I explain SEO?**
 
-**How do I explain Wordpress?**
+**How do I explain Wordpress/Joomla/[insert CMS here]?**
 
-**How do I explain why the client shouldn't use a free/inexpensive site builder?**
+**How do I explain why the client should pay for a web designer instead of using a free/inexpensive site builder?**
+
+**How do I explain why the client would be better suited to a free/inexpensive site builder instead of paying for web design services?**
 
 **How do I deal with a client who wants to support IE 6/7/8?**
 
@@ -50,11 +54,13 @@ Answering client questions and dealing with sticky situations so you don't have 
 **How do I tell a family or friend that I don't want to work with them?**
 
 
-######[[⬆]](#toc) <a name='explanations'>General: Explain It Slowly:</a>
+######[[⬆]](#toc) <a name='general'>General</a>
 
 **How do I tell the client he/she is wrong?**
 
-**How do I explain web design?**
+**How do I tell the client that I made a mistake?**
+
+**How do I explain the website building process?**
 
 **How do I explain domain names and web hosting?**
 
