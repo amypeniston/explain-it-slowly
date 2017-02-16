@@ -13,11 +13,13 @@ Helping you provide better answers to tricky client questions.
 
 **How do I explain that I'm a designer, not a developer?**
 
-**How do I tell the client that their logo/color scheme looks like crap?**
+**How do I tell the client that their existing logo/color scheme would benefit from an upgrade?**
 
-**How do I convince the client not to have music, clip art or gifs on their website?**
+**How do I explain that music, clip art or gifs on a website is not a great idea?**
 
 **How do I avoid design-by-committee?**
+
+**What is the best way to present design revisions?**
 
 
 ######[[⬆]](#toc) <a name='development'>Development:</a>
@@ -43,7 +45,7 @@ Helping you provide better answers to tricky client questions.
 
 **How do I deal with "hurry up and wait" clients?**
 
-**How do I respond to a meeting invitation when a simple email would suffice?**
+**How do I respond to a request to meet when a simple email or phone call would suffice?**
 
 **How do I explain why my work costs as much as it does?**
 
